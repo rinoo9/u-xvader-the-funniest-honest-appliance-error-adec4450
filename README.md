@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "The Funniest Honest Appliance Error" — one line, the funniest honest error message an appliance could show.
 
-Entry line (142 characters):
+Entry line (156 characters):
 
-> ERROR E04: I refuse to spin. One sock is stuck to the drum wall and the load is so lopsided that spinning would make me walk across the floor.
+> ERROR F12: I am not broken. You opened me 14 times in one hour and now I am too warm to keep your leftovers safe. The food is still there. It has not moved.
 
 ## Run
 
