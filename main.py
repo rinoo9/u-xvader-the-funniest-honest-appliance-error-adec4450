@@ -5,8 +5,8 @@ Deterministic, no network, no randomness.
 """
 
 ENTRY = (
-    "ERROR E07: The dishwasher finished, but nobody emptied it, so "
-    "I am now a very expensive cupboard with a blinking light."
+    "ERROR M01: The microwave heated the plate, not the food. The plate "
+    "is lava, the food is ice. Technically I did my job."
 )
 
 
