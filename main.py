@@ -5,9 +5,8 @@ Deterministic, no network, no randomness.
 """
 
 ENTRY = (
-    "ERROR F12: I am not broken. You opened me 14 times in one hour and "
-    "now I am too warm to keep your leftovers safe. The food is still "
-    "there. It has not moved."
+    "ERROR E07: The dishwasher finished, but nobody emptied it, so "
+    "I am now a very expensive cupboard with a blinking light."
 )
 
 
