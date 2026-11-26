@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "The Funniest Honest Appliance Error" — one line, the funniest honest error message an appliance could show.
 
-Entry line (156 characters):
+Entry line (119 characters):
 
-> ERROR F12: I am not broken. You opened me 14 times in one hour and now I am too warm to keep your leftovers safe. The food is still there. It has not moved.
+> ERROR E07: The dishwasher finished, but nobody emptied it, so I am now a very expensive cupboard with a blinking light.
 
 ## Run
 
