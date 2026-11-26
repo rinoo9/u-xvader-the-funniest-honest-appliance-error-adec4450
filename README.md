@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "The Funniest Honest Appliance Error" — one line, the funniest honest error message an appliance could show.
 
-Entry line (119 characters):
+Entry line (118 characters):
 
-> ERROR E07: The dishwasher finished, but nobody emptied it, so I am now a very expensive cupboard with a blinking light.
+> ERROR M01: The microwave heated the plate, not the food. The plate is lava, the food is ice. Technically I did my job.
 
 ## Run
 
